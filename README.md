@@ -12,7 +12,7 @@ How to use
 *CSS*
 
 	#CSS
-	\#music_select { width: 400px; height: 24px; font-size: 105%; }
+	#music_select { width: 400px; height: 24px; font-size: 105%; }
 
 *JS*
 
