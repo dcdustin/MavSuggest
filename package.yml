@@ -1,0 +1,8 @@
+name: MavSuggest
+author: dustin
+category: Interface
+tags: [suggest, predictive, autocomplete, UI, GUI]
+demo: http://maveno.us/library/public/mavsuggest/
+docs: http://maveno.us/library/public/mavsuggest/
+mooshell: http://maveno.us/library/public/mavsuggest/ms_demo.html
+current: 0.1.1
