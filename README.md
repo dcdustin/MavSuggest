@@ -7,6 +7,7 @@ There are many options to customize the text field and the search results to mat
 
 ![MavSuggest](http://github.com/dcdustin/MavSuggest/raw/master/logo.png)
 
+
 How to use
 ----------
 *CSS*
